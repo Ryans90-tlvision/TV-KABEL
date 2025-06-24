@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Sport 24 SD
+https://playback2.akamaized.net/streams/4432823_4713477_lsiovtr5o7nmkonpao4_1/exp=1734277532~acl=%2f*~data=hdntl~hmac=e869dfae50499866cd098f9ebb7140513faef83f8f44a391f6b49925d4262c01/media/4432823_4713477_lsiovtr5o7nmkonpao4_1@1756000p.m3u8?dw=80&ts=1734188400
+#EXTINF:0,Sport 24 FHD
+https://playback2.akamaized.net/streams/4432823_4713477_lsiovtr5o7nmkonpao4_1/exp=1734277532~acl=%2f*~data=hdntl~hmac=e869dfae50499866cd098f9ebb7140513faef83f8f44a391f6b49925d4262c01/media/4432823_4713477_lsiovtr5o7nmkonpao4_1@5256000p.m3u8?dw=80&ts=1734188400
+#EXTINF:0,Sport 24 HD
+https://playback2.akamaized.net/streams/4432823_4713477_lsiovtr5o7nmkonpao4_1/exp=1734277532~acl=%2f*~data=hdntl~hmac=e869dfae50499866cd098f9ebb7140513faef83f8f44a391f6b49925d4262c01/media/4432823_4713477_lsiovtr5o7nmkonpao4_1@2756000p.m3u8?dw=80&ts=1734188400
