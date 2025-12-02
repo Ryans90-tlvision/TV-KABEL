@@ -888,7 +888,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd  
   
-#EXTINF:-1 group-title="SPORTST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsjcNy_IDohefZUIH1APnJwclfHByEcy6_w&s",BEIN SPORTS 3 Australia
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsjcNy_IDohefZUIH1APnJwclfHByEcy6_w&s",BEIN SPORTS 3 Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
