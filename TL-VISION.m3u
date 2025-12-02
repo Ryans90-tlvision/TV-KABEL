@@ -895,3 +895,148 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+M O V I E S
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="FILM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGLZRZ-5ho9wxG5FhUThyf9xPM7vUasYBWmZ-xApL6u57TSChkqsbhJR1DQbXmc_KOoBu4Ly-vEzyDU2t6iPaBJzwG4DUk_VbV_xKIf02HbI9WSCtmoGa3usDzlFPh3r4QxezqnFV73wYusxTivr5RWn6MiZ8YXqJX8Ax_UTHE8k7vzjPUkwxfF3l093Hw/s700/POP%20C.jpeg", POP C
+#http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+
+#EXTINF:-1  group-title="FILM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcA3K6Q5HOFoLV_R7SbWWaow5-jcm6EAVnORpFH6n7Z-lNITGG9f5pGESVzAsUV6YUr7HFaDnC44WNLiIIjMPUGuVKTF0CytOhyyWm8jvd1S0wwcFqfaAzxrGSft9Dni5lsPtXMH8D0SNohlE5I91IfrmivP_ql-SY6XO3MNml8KgnxJeS1zf_bqzGZ7i/s700/SONY%20MAX.jpeg",SONY MAX 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
+
+#EXTINF:-1 group-title="FILM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb2ZivcTMvRLUPe5qCAl-elnxZrlCyNWr0WMzxtVRQpFtAaCDvdFFJ-qRy1Yogpctv37yyCTpl-VM71trNzMOWr-377T8N1h3TzAd7FtENInSPR2ZRMAzQ_VjAK4cxig7vkk27en4HX2Gup3Lm__e73q_HAJGBKRpJ8TKdA_z87Z8_Ksp_qJP1eS_dl3o-/s700/BOLLYWOOD%20HD.jpeg",BOLLYWOOD HD 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqVNesKYGUAVLM7nd7VKHrvvaa3FHSZ7iAXoMSoSKbO3BkfHPr0sm-Qfh7UEK7qH6bcwJBNdYL17ZAgQF0tx79maDbcMuHfDQ9gqay944Q_xjAjuXc6UUDujtxvJ5O65I8iYTWF_BAXVcPcWOUs_LeY0oO2h1sNRc1nLsX8Xq1vx4i96-zwvh3BRGxIKe/s700/DUNIA%20SINEMA.png" group-title="FILM",DUNIA SINEMA 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidyK0VbQWzMlO25rGfRB4zbUWjg8RnoIq1GaCyZPzQ_wZUn5kfeT_vrUL1n-9ClOhGIDh3HGqY9iuUa_vJgGQWLUBnGX6XKs4WAEBUPO57sgRnyr2IbTAd91jf1Ojhq_h9wNpn1L42HwWRRGJUojEMrCoyijWpABCuVV6rn2JJ7_tnxxsQChnVZVfHRwMo/s700/MY%20CINEMA.png" group-title="FILM",MY CINEMA HD DENS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYxNNGpIzvfgL3HWI97YXtH3NCTfrMBFxeHAHEoG-xVMVqQhoNYhxRT9ikI_iy2CyxzDE54oaZVPcFvFLIWj-p3Rrt2cWPgvTzBh_m-XHY7jTa_kIxuf1VVHpLgzxKfc9y7F1vWUAHdk2bhxgg5Vr5JRVSXo4jGYuGOf0G9gwf2uYISvvGkhUpCyAd6Op/s700/MY%20CINEMA%20HD.png" group-title="FILM",MY CINEMA ASIA DENS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWXYl54W-rKISn3MO7t6KWFm083kGBvJ1w9vhYZ3LTmyHFOPV4pV3pcorDpWzlZtQCBFob23QEKijpKofDI52BVqSy71R4Y7fgHFmOdb0iwo2-UMGB35a2LuJRQXrAJWQVC30XPkvyVbOrTivhewMyYT7tWG9DSe7Xs_0sBybosR7QyUqtQfOILfzBAvm/s700/MY%20FAMILY%20CHANNEL.png" group-title="FILM",MY FAMILY CHANNEL DENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQR-mi-WH7mdA9RogvrNdu7N9HF1y6D8zSJJG4JLxPLkqcATjgutlcDCjKi4oMGew-IBP2n2ibnXKwl6T56etT-NgT_OWWCCKYMWolZI3X_BjA1N3m1I9UIxc0ErZbrAOZuEej4bEkUepIlriiqYib0yt-q_hssAQqjME4YxVqBCK_x5os4AQ1W_reYRvb/s700/MY%20CINEMA%20EUROPE.png" group-title="FILM", MY CINEMA EUROPE HD DENS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRdFLcCOJNkXdy8G5BVyULYxzGjz__yF6SLkkbnnlPQnuZ2dmaEkwrnT8l7saPMKMnnRkBPffww7HvuSk2GRI6jj7YL6D29XXfXaPpSqOKj9YvzyivYCLy-4lOHJiflKo9qsn_XZ-mKj8__fMC0rY05zm1SFV1jpsXhdwbNx9vw2yFJldFdw3xHYI9p4Q/s700/CINEMA%20WORLD.png" group-title="FILM",CINEMA WORLD DENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisGhpudGEWXbAZG7a-KD74LuCULDy_-03LHvhBBI-pgUgr7kk341Ro3Vv3WCOEvhylAcASj5UKjA1EgCRWaUT_UjLl2Oq0KZsm0CpcKyF5oLVjk1aIDC7qry88iMweIGEyr-auqDGuvJwIWgmV-gW82PabsXWS69DLOGcAJOZoBsA5f0n3hd-YSlENsvrX/s700/FMM.png" group-title="FILM",FMN {TELENOVELA) V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://av-ch-cdn.mncnow.id/live/eds/FMN/sa_dash/FMN.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+
+#EXTINF:-1 tvg-id="25" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFwMO21NwzZDdqXY4vlKZbMEG4X2DajrCPyspTmAQZfMtQat4_IdTaJbU_mdGE6fV2bPfcH2lJKRtt66-6jKh0fUw-y6s7cJVQ1YJxLYHtpbCPbMTB1y_GtJI8Liy1aBBPuogh4fIvwxvgudcXRMgXbPQDk30nL9et_sxnAynixOEeI1Yzt7nfLnIIHhD/s700/KIX.png" group-title="FILM",KIX HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+#https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvFD25_tW-pzEnmZW4RO95laNwdijQiibNPAiyjZfQbBTOuE7Cx2sJhLWF14JflO52nNYNbVGgIaPGVq2Sx2eHu7rpVhvGs8Gg2-L3uMcy9xxisUCEtMIUTmoXbQpO_N94giS6M-AVBzGyZBBYHKFgfmAegpHUkK47l5L8XmEDMm0uA8P9yFDCwQjVHaa/s700/K+.png" group-title="FILM",K+ HD INDI
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 tvg-id="29" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWJGigr1O2fL9k8YpRU4fRczcXc4SOUTshIGIJcIB2btJYvuB3RlBhVLso1p4o3Si5SyTSDXtaoLbhqsPaCtBcXYdtEmLQmmo79vbR-j3T8WQMgrMMrKDZAyhdT0hHAkP3y6u3wzg0m1_xFS35kCou8w3jThEYRcwYXXcnMoX_m0cH35NH6rYaE_lWA7qU/s700/DRAGON.png" group-title="FILM",DRAGON TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
+#https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQMfIOdz0JllTBzT7cKkrK80cujoCLa_Ck44NVAJGNFMSedGZcPfHX4J_6LkTiwN4AEJ1A4icnQv8cDV2dm7oy8bAaMosUpbxPYlazE3GqVyxXmnRBaEvg058Z4K-cv4I40h9mytuPWRkftzatHCl2QIxhwnrDGRhErvZ-wlERIlZGySrEBEryooKBRJ0r/s700/MOVIES.png" group-title="FILM", WEDOTV MOVIES
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h70/wedotv_movie.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdFF_3PMC7zPG6ZFtaqpDX9euYUZlkLzT0VGykPRQHOVyV_bHMGQepGFStx7DH7M0jMwgSEqteSyAaMy4g0Jt6yaf-54Bo4p31nkQu4fRVYfKlTgnYz_j51Xbqqi2bwzyFiacS8spcCeWgetWrce3oEsyKRBdvvwyKzYT5XOibrCe6zEfgaL3ObO0rMGs_/s700/AMOR.png" group-title="FILM", WEDOTV AMOR
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h68/wedotv_amor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0gfvV7y2N1YaNtj_BDIO0II9A2HsTlkkFRzjwNoQrwQSlWCsBiv6gaf85cp9PgkoBzkZ0lK5002kWIXkMeUWzNyMHzVOmZnrF83dnAorJKIdqBOqJtMnrBoX3KPPCdbKgoGda4rP-G7cNlE3afZ1pw4_xH9Bgqu-579GJabnJlLK-JFBlLPlz_XvalIu1/s700/SONY%20PIX%20HD.png" group-title="FILM", SONY PIX HD
+#https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD0JGzMnv2qryNz4adRfCXt6bveh-6lzJRv9pbY3hheXopyJys2nx2-cMBNLIb4YPwM_7j4Sq4xHoz1WEqojmi1aTPYv7jd1z9D8k9-_UQe_cZGiNfxlkqIBxZUZ46SftM7TYKQmzK1eeCYYTReNIzIcWSHuB3xEDmtz46FhWHGIVGOlSq16JGKeLEOLul/s700/SONY%20MAX%20HD.png" group-title="FILM", SONY MAX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidVdv07r6BE4Tk7aL9THNsa__ljNFghji4NR2rTNnVBcl7RjhoRAK8IHxKEX1TV7nyaVWz28k23uRT1JqAVcBzogcU7MYRqkg7z67z8isId5kHDQNSUkyfBNkuYFitP2arO5aT3jOBACt9xF0In5IG0VGqIlzdNYAg31ULHsQ9-aSV9dcccu6Fdp6ZGZpu/s700/&PRIVE%20HD.png" group-title="FILM", &PRIVE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://la.drmlive.net/tp/zee-9z5543514.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQ7BCRE-eYqKdM_9-WJiyBaTi5vAOWQ-vBsrfatyCPS-pkJYi6ZxDD9yX4vUBc41twUHWgNkxKb6mRQnsteHfpDWXl9mKy_Dhh-93a46K6H5hRcWbDvHlZN5Xf7GHLQ_jHJuDeKffurt1yUvlDuUrhgJiLr75xQKsoHw8vke_6Th0qINycgordJBS9o2o/s700/&FLIX%20HD.png" group-title="FILM", &FLIX HD
+#https://la.drmlive.net/tp/zee-channel_2105335046.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQ7BCRE-eYqKdM_9-WJiyBaTi5vAOWQ-vBsrfatyCPS-pkJYi6ZxDD9yX4vUBc41twUHWgNkxKb6mRQnsteHfpDWXl9mKy_Dhh-93a46K6H5hRcWbDvHlZN5Xf7GHLQ_jHJuDeKffurt1yUvlDuUrhgJiLr75xQKsoHw8vke_6Th0qINycgordJBS9o2o/s700/&FLIX%20HD.png" group-title="FILM", &FLIX SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+#https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1lhqb0JM4_YGtwYCsZuIa7tfVMyZfn7NlqlEj0B7x4Es5z6XxjKMkdNRSASfptM3cYzdACtbZ8UMTuv9vSQeB9v4cXM_FNhiVIvbL11NwPRl1mjSMVugHiDGLwg_0sxA9luKw3d8u-N8p71Xel84FRM8xMKuvXjCtjXQhp3Tn2ruPi9kX4_Udu4ar6LDA/s700/ASTRO%20SHOWCASE.png" group-title="FILM", ASTRO SHOWCASE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+#https://dl.dropboxusercontent.com/scl/fi/q17f8p1vmpjub18n35v20/showcase.m3u8?rlkey=5jh80h4jrxob7jf3z1l3jwww1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQ7BCRE-eYqKdM_9-WJiyBaTi5vAOWQ-vBsrfatyCPS-pkJYi6ZxDD9yX4vUBc41twUHWgNkxKb6mRQnsteHfpDWXl9mKy_Dhh-93a46K6H5hRcWbDvHlZN5Xf7GHLQ_jHJuDeKffurt1yUvlDuUrhgJiLr75xQKsoHw8vke_6Th0qINycgordJBS9o2o/s700/&FLIX%20HD.png" group-title="FILM", &FLIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://playflix.icu/mahesh/Jiotv/index.php?id=0-9-9z5543514
+#https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1754237373~acl=%2f*~data=hdntl~hmac=f6d50b87b4ce52285a229eb34874f87f6674b5ec086866c8ccd621faa37dc5bb
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHq5HhGVJPZ7TWyeX4QX28DpEOebF-QmbVbt6aiJNGI6B2M9dH5Vje_SBwbONoWRHlhnA9o434pxXr6S7PDNc9xcjhY3QtlAUjiWV0KZXm_9qWQdlDNFdbtvAgo7IbOvDpzDHsItXTjbE_kG9w_uo0DybMFH_mIzeIQBUrnjUiSdBq_gDA7-XwkWIJlGuc/s700/MOVIES%20NOW%20HD.png" group-title="FILM", MOVIES NOW HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC7ZqpjIQcBSVfcWI9OoTAf2R032NRJevw-keEbqSSK5OKbvLBHwTW8mC_P3YNmiTMW9ModXhBdcrxPyPmd11nnzcaAcnb6gI9l-_NzDqPDwK9uqAyQvzz3PlEVTH8V6j2nZAqP-Unh0fDxZvXo8Hvb3zue6I9q5TFAYuikHLEYUndd8XGa5RoCrfRLNgZ/s700/MNX%20HD.png" group-title="FILM", MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih3oh9djLe7KIo8u9W_6Gf0iItiC5rUfF9f5oEz0QttGbJWOAzxkpDUggMNaB5nYQUxjalFVspV6Bd-BN-0bhPyUBwwkctesEq7cWC8Mp2Ii4t84zoLuPgn-2V-2v5yxa5b3LlhEYPEeK1L66bPJzqkk85IwQwSDFjpigRCgGl0paocLRUeOgVpZRvZd5B/s700/MN+%20HD.png" group-title="FILM", MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGSCpO_u10hN1KkEEJtZjjeIDx_v3pzdjmIwTl-oO5h2btdrS2afB15l3kQmHua-mZh1J8Pvc6yN3WZQFlrG_nvyL1qz3wK6A9lb4LStg8rRwGCJgFwqS9bOhx5E9sAmuHe8gyRpv5XAvbiyE7dsG5thsE6ziaUF0TNOVc1pM8qt40tsQsO6vKCpApfDiB/s700/ROMEDY%20NOW.png" group-title="FILM", ROMEDY NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
